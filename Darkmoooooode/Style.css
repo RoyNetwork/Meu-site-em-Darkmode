@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    font-size: 20px;
+    background-color: #000000;
+  }
+  
+  body {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+  }
+ 
+
+  .botao-fixado {
+
+    position: fixed;
+    
+    bottom: 20px;
+    
+    right: 20px;
+    
+    }
+    body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+    }
+    .dark-mode {
+        background-color: black;
+        color: white;
+    }
+    .light-mode {
+        background-color: white;
+        color: black;
+    }
+    img {
+        width: 100px;
+    }
